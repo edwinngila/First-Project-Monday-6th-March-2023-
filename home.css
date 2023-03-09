@@ -1,0 +1,93 @@
+.mainPage{
+    background-color: #22003B;
+    min-height: 300px;
+    font-family: 'Mynerve', cursive;
+    color: white;
+}
+.mainPage h2{
+    text-align: center;
+}
+.mainPage ul{
+    list-style: none;
+}
+.text{
+    margin-top: -100px;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.classes{
+    font-family: 'Mynerve', cursive;
+    background-color: #22003B;
+    min-height: 300px;
+    border-radius: 20px;
+    color: white;
+}
+.classes h3{
+    text-align: center;
+}
+.classes p{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 20px;
+}
+.classes span{
+    font-weight: 700;
+    color: #198754;
+    text-transform: uppercase;
+}
+.class-btn{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.footer1{
+    border-right: 2px solid #5E6063;
+}
+.footer2{
+    border-right: 2px solid #5E6063;
+}
+.footer3 p i{
+    color: #5E6063;
+}
+h2{
+    color: #5E6063;
+    margin-left: 5px;
+    font-family: 'Shantell Sans', cursive;
+    font-size: 5px;
+}
+ol{
+    list-style: none;
+    margin-left: -40px;
+}
+ol li{
+    margin: 10px;
+    color: #5E6063;
+}
+ol li i{
+    color: #5E6063;
+}
+ol li i:hover{
+    color: #198754;
+    cursor: pointer;
+}
+.footerRight{
+    margin-top: 10px;
+}
+.footerRight h1{
+      margin-top: 100px;
+      margin-left: 60px;
+}
+@media all and (max-width:780px){
+    #links ul li a{
+        font-size: 14px;
+        padding: 6px;
+        margin-left: -10px;
+        
+    }
+    #logo{
+        display: none;
+    }
+    .items>*{
+        font-size: 10px;
+    }
+}

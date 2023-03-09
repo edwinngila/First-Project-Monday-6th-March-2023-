@@ -1,0 +1,15 @@
+form{
+    background-color: #B9B9B9;
+    box-shadow: 5px 10px 10px black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+input{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    /* width: 200px; */
+}
+button{
+    margin-left: 200px;
+}

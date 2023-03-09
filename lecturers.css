@@ -1,0 +1,20 @@
+img{
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+}
+nav{
+    min-width: 300px;
+}
+nav ol li:hover{
+    background-color: #198754;
+    cursor: pointer;
+}
+.textArea{
+    min-height: 300px;
+}
+.lecturers{
+    min-height: 300px;
+    border: 2px solid black;
+    border-radius: 20px;
+}

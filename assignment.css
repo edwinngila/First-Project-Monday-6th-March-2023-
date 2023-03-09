@@ -1,0 +1,18 @@
+.assignment-list{
+    min-height: 300px;
+    
+}
+@media all and (max-width:780px){
+    #links ul li a{
+        font-size: 14px;
+        padding: 6px;
+        margin-left: -10px;
+        
+    }
+    #logo{
+        display: none;
+    }
+    .items>*{
+        font-size: 10px;
+    }
+}
